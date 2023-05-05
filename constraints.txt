@@ -1,0 +1,4 @@
+-f https://eggrepo.eea.europa.eu/simple/
+eea.coremetadata==3.0
+forests.content==1.9
+forests.theme==1.4

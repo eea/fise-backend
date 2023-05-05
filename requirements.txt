@@ -1,0 +1,3 @@
+eea.coremetadata
+forests.content
+forests.theme
