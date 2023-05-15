@@ -1,4 +1,2 @@
 eea.api.dataconnector
 eea.coremetadata
-forests.content
-forests.theme
