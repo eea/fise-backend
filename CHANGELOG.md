@@ -1,7 +1,71 @@
 # Changelog
 
 
-## [6.0.3-3](https://github.com/eea/forest-backend/releases/tag/6.0.3-3) - 2023-05-11T23:21:26Z
+## [6.0.3-8](https://github.com/$repo/releases/tag/6.0.3-8) - 2023-05-16T12:43:11Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 4.4 ~ 4.5
+
+* Bug: updated schema definition
+  [alecghica refs #252894]
+
+##### [eea.coremetadata](https://github.com/eea/eea.coremetadata/releases): 3.0 ~ 3.1
+
+* Change: Develop refs #250426
+  [alecghica]
+
+
+## [6.0.3-7](https://github.com/$repo/releases/tag/6.0.3-7) - 2023-05-15T16:52:26Z
+
+### Dependency updates
+
+#### New packages
+
+##### [eea.fise.policy](https://github.com/eea/eea.fise.policy): 1.0
+
+##### [forests.content](https://github.com/eea/forests.content): 2.0
+
+##### [forests.theme](https://pypi.org/project/forests.theme/#changelog): 1.4
+
+### Internal
+
+- add eea.fise.policy - [Valentin Dumitru -  [`2d5b120`](https://github.com/eea/forest-backend/commit/2d5b120abd8d023271f09952ec19b5ac903730d1)]
+
+## [6.0.3-6](https://github.com/$repo/releases/tag/6.0.3-6) - 2023-05-15T12:01:10Z
+
+### Dependency updates
+
+#### Removed packages
+
+##### [forests.content](https://pypi.org/project/forests.content/#changelog): 2.1
+
+##### [forests.theme](https://pypi.org/project/forests.theme/#changelog): 1.4
+
+### Internal
+
+- remove forests.content and forests.theme - [Valentin Dumitru -  [`2bbaf58`](https://github.com/eea/forest-backend/commit/2bbaf58531dbbefb2da4182415a2b91f99e5f634)]
+
+## [6.0.3-5](https://github.com/$repo/releases/tag/6.0.3-5) - 2023-05-12T18:17:49Z
+
+### Dependency updates
+
+##### [forests.content](https://github.com/eea/forests.content/releases): 1.9 ~ 2.1
+
+* Change: add z3c.autoinclude.plugin snippet to setup.py (pip compat)
+  [valipod]
+
+* Change: Remove composite page CT
+  [alecghica]
+
+### Internal
+
+- forests.content 2.1 - [Valentin Dumitru -  [`c04d545`](https://github.com/eea/forest-backend/commit/c04d545ebf33aec528003e690c42f0e61b1255b8)]
+
+## [6.0.3-4](https://github.com/$repo/releases/tag/6.0.3-4) - 2023-05-12T17:34:37Z
+
+
+## [6.0.3-3](https://github.com/$repo/releases/tag/6.0.3-3) - 2023-05-11T23:21:28Z
 
 ### Internal
 
@@ -27,6 +91,6 @@
 ###### Dependency updates
 
 ###### [eea.kitkat](https://github.com/eea/eea.kitkat/releases): 4.7 ~ 5.0
+
 * Task: Remove eea.cache dependency from eea.kitkat
  [iulianpetchesi refs #251471]
-
