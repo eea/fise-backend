@@ -1,6 +1,12 @@
 # Changelog
 
 
+## [6.0.3-9](https://github.com/eea/forest-backend/releases/tag/6.0.3-9) - 2023-05-17T23:21:25Z
+
+### Internal
+
+- doc: update changelog - [valentinab25 -  [`39fa658`](https://github.com/eea/forest-backend/commit/39fa65879e93bcf03bb28c473f553044cfd09439)]
+
 ## [6.0.3-8](https://github.com/$repo/releases/tag/6.0.3-8) - 2023-05-16T12:43:11Z
 
 ### Dependency updates
