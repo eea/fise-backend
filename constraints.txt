@@ -2,5 +2,4 @@
 eea.api.dataconnector==4.6
 eea.coremetadata==3.1
 eea.fise.policy==1.0
-forests.content==2.0
-forests.theme==1.4
+collective.exportimport==1.8

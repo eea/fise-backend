@@ -1,5 +1,3 @@
 eea.api.dataconnector
 eea.coremetadata
 eea.fise.policy
-forests.content
-forests.theme
