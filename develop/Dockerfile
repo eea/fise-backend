@@ -1,4 +1,4 @@
-FROM eeacms/forest-backend
+FROM eeacms/fise-backend
 
 RUN runDeps="vim tmux mc" \
  && apt-get update \
