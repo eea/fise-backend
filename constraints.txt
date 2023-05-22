@@ -2,4 +2,3 @@
 eea.api.dataconnector==4.6
 eea.coremetadata==3.1
 eea.fise.policy==1.0
-collective.exportimport==1.8
