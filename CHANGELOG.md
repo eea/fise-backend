@@ -1,7 +1,7 @@
 # Changelog
 
 
-## [6.0.3-10](https://github.com/eea/forest-backend/releases/tag/6.0.3-10) - 2023-05-18T10:39:06Z
+## [6.0.3-10](https://github.com/eea/fise-backend/releases/tag/6.0.3-10) - 2023-05-18T10:39:06Z
 
 ### Dependency updates
 
@@ -11,11 +11,11 @@
   [alecghica refs #252894]
 
 
-## [6.0.3-9](https://github.com/eea/forest-backend/releases/tag/6.0.3-9) - 2023-05-17T23:21:25Z
+## [6.0.3-9](https://github.com/eea/fise-backend/releases/tag/6.0.3-9) - 2023-05-17T23:21:25Z
 
 ### Internal
 
-- doc: update changelog - [valentinab25 -  [`39fa658`](https://github.com/eea/forest-backend/commit/39fa65879e93bcf03bb28c473f553044cfd09439)]
+- doc: update changelog - [valentinab25 -  [`39fa658`](https://github.com/eea/fise-backend/commit/39fa65879e93bcf03bb28c473f553044cfd09439)]
 
 ## [6.0.3-8](https://github.com/$repo/releases/tag/6.0.3-8) - 2023-05-16T12:43:11Z
 
@@ -46,7 +46,7 @@
 
 ### Internal
 
-- add eea.fise.policy - [Valentin Dumitru -  [`2d5b120`](https://github.com/eea/forest-backend/commit/2d5b120abd8d023271f09952ec19b5ac903730d1)]
+- add eea.fise.policy - [Valentin Dumitru -  [`2d5b120`](https://github.com/eea/fise-backend/commit/2d5b120abd8d023271f09952ec19b5ac903730d1)]
 
 ## [6.0.3-6](https://github.com/$repo/releases/tag/6.0.3-6) - 2023-05-15T12:01:10Z
 
@@ -60,7 +60,7 @@
 
 ### Internal
 
-- remove forests.content and forests.theme - [Valentin Dumitru -  [`2bbaf58`](https://github.com/eea/forest-backend/commit/2bbaf58531dbbefb2da4182415a2b91f99e5f634)]
+- remove forests.content and forests.theme - [Valentin Dumitru -  [`2bbaf58`](https://github.com/eea/fise-backend/commit/2bbaf58531dbbefb2da4182415a2b91f99e5f634)]
 
 ## [6.0.3-5](https://github.com/$repo/releases/tag/6.0.3-5) - 2023-05-12T18:17:49Z
 
@@ -76,7 +76,7 @@
 
 ### Internal
 
-- forests.content 2.1 - [Valentin Dumitru -  [`c04d545`](https://github.com/eea/forest-backend/commit/c04d545ebf33aec528003e690c42f0e61b1255b8)]
+- forests.content 2.1 - [Valentin Dumitru -  [`c04d545`](https://github.com/eea/fise-backend/commit/c04d545ebf33aec528003e690c42f0e61b1255b8)]
 
 ## [6.0.3-4](https://github.com/$repo/releases/tag/6.0.3-4) - 2023-05-12T17:34:37Z
 
@@ -85,7 +85,7 @@
 
 ### Internal
 
-- docs: Update release changelog - [valentinab25 -  [`f621471`](https://github.com/eea/forest-backend/commit/f621471669a74f76b08c3ace684cda85bed267f6)]
+- docs: Update release changelog - [valentinab25 -  [`f621471`](https://github.com/eea/fise-backend/commit/f621471669a74f76b08c3ace684cda85bed267f6)]
 
 ## [6.0.3-2](https://github.com/$repo/releases/tag/6.0.3-2) - 2023-05-10T15:42:03Z
 
@@ -97,7 +97,7 @@
 
 ### Internal
 
-- add eea.api.dataconnector 4.4 - [Valentin Dumitru -  [`34eb9a6`](https://github.com/eea/forest-backend/commit/34eb9a6a841920a50361e057fd966875ae244c59)]
+- add eea.api.dataconnector 4.4 - [Valentin Dumitru -  [`34eb9a6`](https://github.com/eea/fise-backend/commit/34eb9a6a841920a50361e057fd966875ae244c59)]
 
 ## [6.0.3-1](https://github.com/$repo/releases/tag/6.0.3-1) - 2023-05-05T16:57:07Z
 

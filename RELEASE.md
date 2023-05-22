@@ -8,8 +8,8 @@ The release flow on Plone projects is split in 2 Jenkins jobs:
 
 * A job that runs on every commit on master and creates a production ready GitHub release and tag
 * A job that runs on every new tag (including the one created in the first job):
-    * A new Docker image is built and released automatically on [DockerHub](https://hub.docker.com/r/eeacms/forest-backend) with the release tag.
-    * A new entry is automatically added to [Forest Information System of Europe website - backend](https://github.com/eea/eea.rancher.catalog/tree/master/templates/forest-backend) `EEA Rancher Catalog` with the release tag
+    * A new Docker image is built and released automatically on [DockerHub](https://hub.docker.com/r/eeacms/fise-backend) with the release tag.
+    * A new entry is automatically added to [Forest Information System of Europe website - backend](https://github.com/eea/eea.rancher.catalog/tree/master/templates/fise-backend) `EEA Rancher Catalog` with the release tag
     * If the project demo stack is configured in `RANCHER_STACKID`, the demo stack is automatically upgraded to the newly created template version
 
 #### How to start a Production release
@@ -25,8 +25,8 @@ We use [Docker](https://www.docker.com/), [Rancher](https://rancher.com/) and [J
 
 ### Deploy
 
-* Within `Rancher > Catalog > EEA` deploy [Forest Information System of Europe website - Backend](https://github.com/eea/eea.rancher.catalog/tree/master/templates/forest-backend)
-* Within `Rancher > Catalog > EEA` deploy [Forest Information System of Europe website - Frontend](https://github.com/eea/eea.rancher.catalog/tree/master/templates/volto-forests)
+* Within `Rancher > Catalog > EEA` deploy [Forest Information System of Europe website - Backend](https://github.com/eea/eea.rancher.catalog/tree/master/templates/fise-backend)
+* Within `Rancher > Catalog > EEA` deploy [Forest Information System of Europe website - Frontend](https://github.com/eea/eea.rancher.catalog/tree/master/templates/volto-fise)
 
 ### Upgrade
 

@@ -6,7 +6,7 @@ globalTests+=(
 )
 
 imageTests+=(
-	[eeacms/forest-backend]='
+	[eeacms/fise-backend]='
 		plone-basics
 		plone-site
 		plone-addons

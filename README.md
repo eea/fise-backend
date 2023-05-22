@@ -8,25 +8,25 @@ See [Plone 6 frontend for Forest Information System of Europe website](https://g
 
 ## Try it using Docker
 
-    docker pull eeacms/forest-backend
-    docker run -it --rm -p 8080:8080 -e SITE=Plone eeacms/forest-backend
+    docker pull eeacms/fise-backend
+    docker run -it --rm -p 8080:8080 -e SITE=Plone eeacms/fise-backend
 
 See Plone backend at http://localhost:8080/Plone
 
 ## Develop
 
-See [develop](https://github.com/eea/forest-backend/tree/master/develop)
+See [develop](https://github.com/eea/fise-backend/tree/master/develop)
 
 ## Release
 
-See [release](https://github.com/eea/forest-backend/tree/master/RELEASE.md)
+See [release](https://github.com/eea/fise-backend/tree/master/RELEASE.md)
 
 ## Copyright and license
 
 The Initial Owner of the Original Code is European Environment Agency (EEA).
 All Rights Reserved.
 
-See [LICENSE.md](https://github.com/eea/forest-backend/blob/master/LICENSE.md) for details.
+See [LICENSE.md](https://github.com/eea/fise-backend/blob/master/LICENSE.md) for details.
 
 ## Funding
 
