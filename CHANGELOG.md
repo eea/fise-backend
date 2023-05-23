@@ -1,6 +1,21 @@
 # Changelog
 
 
+## [6.0.3-13](https://github.com/eea/fise-backend/releases/tag/6.0.3-13) - 2023-05-23T13:48:04Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.3-7 ~ 6.0.3-8 
+
+##### eeacms/plone-backend:[6.0.3-8](https://github.com/eea/plone-backend/releases/tag/6.0.3-8)
+###### Internal
+
+- add dependent dockerfiles - [valentinab25 - [`c1392ed`](https://github.com/eea/plone-backend/commit/c1392edcbf60e2b15b8d3cd0c32a38fc85afe520)]
+
+### Internal
+
+- build devel based on new image name - [Valentin Dumitru -  [`3c35b6a`](https://github.com/eea/fise-backend/commit/3c35b6a50a22e93470c674a5157c343c2c361c41)]
+
 ## [6.0.3-10](https://github.com/eea/fise-backend/releases/tag/6.0.3-10) - 2023-05-18T10:39:06Z
 
 ### Dependency updates
