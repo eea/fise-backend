@@ -1,6 +1,16 @@
 # Changelog
 
 
+## [6.0.5-7](https://github.com/eea/fise-backend/releases/tag/6.0.5-7) - 2023-06-13T23:22:16Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 4.6 ~ 5.0
+
+* Change: refact: change field name for tableau visualization
+  [razvanMiu]
+
+
 ## [6.0.5-6](https://github.com/eea/fise-backend/releases/tag/6.0.5-6) - 2023-06-12T23:56:42Z
 
 ### Plone
