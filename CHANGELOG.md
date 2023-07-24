@@ -1,6 +1,16 @@
 # Changelog
 
 
+## [6.0.5-10](https://github.com/eea/fise-backend/releases/tag/6.0.5-10) - 2023-07-24T23:29:04Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 5.1 ~ 5.2
+
+* Change: Tableau endpoint
+  [andreiggr]
+
+
 ## [6.0.5-9](https://github.com/eea/fise-backend/releases/tag/6.0.5-9) - 2023-07-21T23:59:02Z
 
 ### Plone
