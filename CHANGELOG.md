@@ -1,6 +1,21 @@
 # Changelog
 
 
+## [6.0.6-4](https://github.com/eea/fise-backend/releases/tag/6.0.6-4) - 2023-08-31T00:11:14Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.6-3 ~ 6.0.6-4 
+
+##### eeacms/plone-backend:[6.0.6-4](https://github.com/eea/plone-backend/releases/tag/6.0.6-4)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 2.3 ~ 3.0
+
+* Feature: Add image_scales to catalog and update list of scales to registry
+ [nileshgulia1 - refs #254889]
+
+
 ## [6.0.6-3](https://github.com/eea/fise-backend/releases/tag/6.0.6-3) - 2023-08-26T00:06:59Z
 
 ### Plone
