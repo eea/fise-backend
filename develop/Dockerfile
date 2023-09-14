@@ -8,6 +8,7 @@ RUN runDeps="vim tmux mc" \
 
 COPY sources.ini /app/
 
-RUN bin/mxdev -c sources.ini \
- && bin/pip install -r requirements-mxdev.txt ${PIP_PARAMS} \
+RUN bin/pip install "mxdev>=3.0.0" \
+ && bin/mxdev -c sources.ini \
+ && bin/pip install -r requirements-mxdev.txt \
  && find /app -not -user plone -exec chown plone:plone {} \+

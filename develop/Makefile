@@ -42,7 +42,7 @@ endif
 ##############################################################################
 # SETTINGS AND VARIABLE
 
-PLONE_VERSION=6.0.0
+PLONE_VERSION=6.0.6
 #`docker run -i --rm eeacms/plone-backend env | grep PLONE_VERSION | sed "s/PLONE_VERSION=//g"`
 PIP_PARAMS=
 #`docker run -i --rm eeacms/plone-backend env | grep PIP_PARAMS | sed "s/PIP_PARAMS=//g"`
@@ -70,6 +70,7 @@ install:		## Install Plone and develop add-ons
 
 .PHONY: develop
 develop:		## Develop source.ini add-ons using mxdev
+    bin/pip install "mxdev>=3.0.0"
 	bin/pip install -r ../requirements.txt -c ../constraints.txt $(PIP_PARAMS)
 	bin/mxdev -c sources.ini
 	bin/pip install -r requirements-mxdev.txt $(PIP_PARAMS)
