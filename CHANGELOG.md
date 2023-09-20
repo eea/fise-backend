@@ -1,6 +1,18 @@
 # Changelog
 
 
+## [6.0.6-7](https://github.com/eea/fise-backend/releases/tag/6.0.6-7) - 2023-09-20T23:33:13Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 5.2 ~ 5.3
+
+* Change: Add ElasticConnector CT
+  [andreiggr]
+
+Pre-release with the elastic connector
+
+
 ## [6.0.6-5](https://github.com/eea/fise-backend/releases/tag/6.0.6-5) - 2023-09-01T00:06:26Z
 
 ### Plone
