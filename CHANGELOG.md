@@ -1,6 +1,16 @@
 # Changelog
 
 
+## [6.0.6-9](https://github.com/eea/fise-backend/releases/tag/6.0.6-9) - 2023-09-28T23:31:04Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 6.0 ~ 6.1
+
+* Change: Make figure note available for embed blocks
+  [andreiggr]
+
+
 ## [6.0.6-8](https://github.com/eea/fise-backend/releases/tag/6.0.6-8) - 2023-09-27T23:34:00Z
 
 ### Dependency updates
