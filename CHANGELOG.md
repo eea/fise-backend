@@ -1,6 +1,16 @@
 # Changelog
 
 
+## [6.0.6-10](https://github.com/eea/fise-backend/releases/tag/6.0.6-10) - 2023-10-06T23:25:44Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 6.1 ~ 6.2
+
+* Change: elasticconnectors support second level aggregations
+  [andreiggr]
+
+
 ## [6.0.6-9](https://github.com/eea/fise-backend/releases/tag/6.0.6-9) - 2023-09-28T23:31:04Z
 
 ### Dependency updates
