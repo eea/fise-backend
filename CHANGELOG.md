@@ -1,6 +1,16 @@
 # Changelog
 
 
+## [6.0.7-4](https://github.com/eea/fise-backend/releases/tag/6.0.7-4) - 2023-11-18T00:15:56Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 6.3 ~ 7.0
+
+* Change: feat: serialize embed_visualization and new embed_map
+  [razvanMiu]
+
+
 ## [6.0.7-3](https://github.com/eea/fise-backend/releases/tag/6.0.7-3) - 2023-11-02T00:24:50Z
 
 ### Dependency updates
