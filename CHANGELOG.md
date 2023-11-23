@@ -1,6 +1,12 @@
 # Changelog
 
 
+## [6.0.7-5](https://github.com/eea/fise-backend/releases/tag/6.0.7-5) - 2023-11-23T00:16:47Z
+
+### Internal
+
+- fix: fix develop Makefile - [Claudia Ifrim -  [`3a0018a`](https://github.com/eea/fise-backend/commit/3a0018aa849d70ac13ba606352c51279b7243700)]
+
 ## [6.0.7-4](https://github.com/eea/fise-backend/releases/tag/6.0.7-4) - 2023-11-18T00:15:56Z
 
 ### Dependency updates
