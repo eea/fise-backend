@@ -1,6 +1,16 @@
 # Changelog
 
 
+## [6.0.7-8](https://github.com/eea/fise-backend/releases/tag/6.0.7-8) - 2023-12-08T00:17:19Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 8.1 ~ 8.2
+
+* Feature: Add custom add permissions for EEA-Viz content-types
+  [avoinea - refs #257682]
+
+
 ## [6.0.7-5](https://github.com/eea/fise-backend/releases/tag/6.0.7-5) - 2023-11-23T00:16:47Z
 
 ### Internal
