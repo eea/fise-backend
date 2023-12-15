@@ -1,6 +1,16 @@
 # Changelog
 
 
+## [6.0.7-10](https://github.com/eea/fise-backend/releases/tag/6.0.7-10) - 2023-12-15T12:28:54Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 8.3 ~ 8.4
+
+* Bug fix: Add upgrade step to fix plotly with BOM character ﻿
+  [avoinea - refs #262155]
+
+
 ## [6.0.7-8](https://github.com/eea/fise-backend/releases/tag/6.0.7-8) - 2023-12-08T00:17:19Z
 
 ### Dependency updates
