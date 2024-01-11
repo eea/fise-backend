@@ -1,6 +1,16 @@
 # Changelog
 
 
+## [6.0.7-12](https://github.com/eea/fise-backend/releases/tag/6.0.7-12) - 2024-01-11T00:15:13Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 8.4 ~ 8.5
+
+* Change: fix: don't break visualizations if selected content is not a viz
+  [razvanMiu]
+
+
 ## [6.0.7-11](https://github.com/eea/fise-backend/releases/tag/6.0.7-11) - 2024-01-10T00:44:41Z
 
 ### Plone
