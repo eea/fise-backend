@@ -1,6 +1,16 @@
 # Changelog
 
 
+## [6.0.7-13](https://github.com/eea/fise-backend/releases/tag/6.0.7-13) - 2024-01-18T16:37:23Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 8.5 ~ 9.0
+
+* Change: feat: improve plotlychart visualization serialization
+  [razvanMiu]
+
+
 ## [6.0.7-12](https://github.com/eea/fise-backend/releases/tag/6.0.7-12) - 2024-01-11T00:15:13Z
 
 ### Dependency updates
