@@ -1,6 +1,24 @@
 # Changelog
 
 
+## [6.0.7-14](https://github.com/eea/fise-backend/releases/tag/6.0.7-14) - 2024-01-24T00:46:59Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.7-3 ~ 6.0.7-4 
+
+##### eeacms/plone-backend:[6.0.7-4](https://github.com/eea/plone-backend/releases/tag/6.0.7-4)
+###### Dependency updates
+
+###### New packages
+
+###### [eea.api.glossary](https://pypi.org/project/eea.api.glossary/#changelog): 1.1
+
+###### Internal
+
+- Added eea.api.glossary - [Claudia Ifrim - [`caa6d6e`](https://github.com/eea/plone-backend/commit/caa6d6e16ee4d2a6c687b1701b5a647d5caad7f9)]
+
+
 ## [6.0.7-13](https://github.com/eea/fise-backend/releases/tag/6.0.7-13) - 2024-01-18T16:37:23Z
 
 ### Dependency updates
