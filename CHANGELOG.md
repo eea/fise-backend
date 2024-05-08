@@ -1,6 +1,16 @@
 # Changelog
 
 
+## [6.0.10-8](https://github.com/eea/fise-backend/releases/tag/6.0.10-8) - 2024-05-08T23:18:07Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 10.0 ~ 10.1
+
+* Change: Release
+  [claudiaifrim]
+
+
 ## [6.0.10-7](https://github.com/eea/fise-backend/releases/tag/6.0.10-7) - 2024-04-16T23:44:47Z
 
 ### Plone
