@@ -1,4 +1,4 @@
-FROM eeacms/plone-backend:6.0.10-8
+FROM eeacms/plone-backend:6.0.10-9
 
 COPY requirements.txt constraints.txt /app/
 RUN ./bin/pip install -r requirements.txt -c constraints.txt \
