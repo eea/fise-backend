@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [6.0.11-2](https://github.com/eea/fise-backend/releases/tag/6.0.11-2) - 2024-05-22T23:17:31Z
+
+### Internal
+
+- fix: fix development instance - [Claudia Ifrim -  [`2b15d44`](https://github.com/eea/fise-backend/commit/2b15d4473207ca6fac8677f3ba5a1c32eb956e94)]
+- Remove pas.plugins.oidc - [Alexandru Ghica -  [`226d075`](https://github.com/eea/fise-backend/commit/226d075da3745c7c2ee31e0e8da4f13d7f29a4ea)]
+
 ## [6.0.11-1](https://github.com/eea/fise-backend/releases/tag/6.0.11-1) - 2024-05-20T23:48:37Z
 
 ### Plone
