@@ -1,0 +1,19 @@
+###############################################################################
+# mxdev development sources
+-e ./sources/eea.dexterity.indicators --pre
+-e ./sources/eea.dexterity.themes --pre
+-e ./sources/eea.progress.workflow --pre
+-e ./sources/eea.kitkat --pre
+-e ./sources/eea.coremetadata --pre
+-e ./sources/eea.zotero --pre
+-e ./sources/eea.api.layout --pre
+-e ./sources/eea.api.dataconnector --pre
+-e ./sources/eea.schema.slate --pre
+-e ./sources/eea.geolocation --pre
+-e ./sources/eea.sentry --pre
+-e ./sources/eea.volto.policy --pre
+-e ./sources/eea.banner --pre
+-e ./sources/eea.website.policy --pre
+-e ./sources/pas.plugins.oidc --pre
+
+
