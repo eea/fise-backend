@@ -1,6 +1,22 @@
 # Changelog
 
 
+## [6.0.11-4](https://github.com/eea/fise-backend/releases/tag/6.0.11-4) - 2024-06-04T00:05:04Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.11-2 ~ 6.0.11-3 
+
+##### eeacms/plone-backend:[6.0.11-3](https://github.com/eea/plone-backend/releases/tag/6.0.11-3)
+###### Dependency updates
+
+###### [pas.plugins.authomatic](https://pypi.org/project/pas.plugins.authomatic/#changelog): 1.2.1.dev1 ~ 1.2.1.dev2
+
+###### Internal
+
+- Release pas.plugins.authomatic==1.2.1.dev2 - [alin - [`25d3d04`](https://github.com/eea/plone-backend/commit/25d3d04621b34edf00c9157563c0b2f98ca4004b)]
+
+
 ## [6.0.11-3](https://github.com/eea/fise-backend/releases/tag/6.0.11-3) - 2024-05-23T23:46:26Z
 
 ### Plone
