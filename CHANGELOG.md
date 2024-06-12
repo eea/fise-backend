@@ -1,6 +1,29 @@
 # Changelog
 
 
+## [6.0.11-5](https://github.com/eea/fise-backend/releases/tag/6.0.11-5) - 2024-06-12T23:17:21Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.11-3 ~ 6.0.11-4 
+
+##### eeacms/plone-backend:[6.0.11-4](https://github.com/eea/plone-backend/releases/tag/6.0.11-4)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 4.1 ~ 5.0
+
+* Breaking: Requires `plone.volto >= 4.1.0`
+* Change: Add upgrade step to add block_types index to the Plone catalog
+ [avoinea - refs #271233]
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 10.2 ~ 10.3
+
+* Change: Release
+  [claudiaifrim]
+
+
 ## [6.0.11-4](https://github.com/eea/fise-backend/releases/tag/6.0.11-4) - 2024-06-04T00:05:04Z
 
 ### Plone
