@@ -1,6 +1,21 @@
 # Changelog
 
 
+## [6.0.11-13](https://github.com/eea/fise-backend/releases/tag/6.0.11-13) - 2024-08-24T00:11:03Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.11-11 ~ 6.0.11-12 
+
+##### eeacms/plone-backend:[6.0.11-12](https://github.com/eea/plone-backend/releases/tag/6.0.11-12)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 5.2 ~ 5.3
+
+* Change: Develop
+ [tiberiuichim]
+
+
 ## [6.0.11-12](https://github.com/eea/fise-backend/releases/tag/6.0.11-12) - 2024-08-19T23:51:11Z
 
 ### Plone
