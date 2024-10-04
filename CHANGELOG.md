@@ -1,6 +1,28 @@
 # Changelog
 
 
+## [6.0.11-15](https://github.com/eea/fise-backend/releases/tag/6.0.11-15) - 2024-10-04T10:13:28Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.11-12 ~ 6.0.11-13 
+
+##### eeacms/plone-backend:[6.0.11-13](https://github.com/eea/plone-backend/releases/tag/6.0.11-13)
+###### Dependency updates
+
+###### [eea.coremetadata](https://github.com/eea/eea.coremetadata/releases): 4.2 ~ 4.3
+
+* Change: Fix other organisations metadata
+ [avoinea]
+
+### Dependency updates
+
+##### [eea.coremetadata](https://github.com/eea/eea.coremetadata/releases): 4.2 ~ 4.3
+
+* Change: Fix other organisations metadata
+  [avoinea]
+
+
 ## [6.0.11-14](https://github.com/eea/fise-backend/releases/tag/6.0.11-14) - 2024-09-16T23:15:41Z
 
 ### Dependency updates
