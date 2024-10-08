@@ -1,4 +1,4 @@
 -f https://eggrepo.eea.europa.eu/simple/
-eea.api.dataconnector==10.4
+eea.api.dataconnector==10.5
 eea.coremetadata==4.3
 eea.fise.policy==1.0
