@@ -1,6 +1,16 @@
 # Changelog
 
 
+## [6.0.13-6](https://github.com/eea/fise-backend/releases/tag/6.0.13-6) - 2024-10-21T23:17:45Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 10.5 ~ 10.6
+
+* Change: Add embed_content block serializer
+  [razvanMiu - refs #274326]
+
+
 ## [6.0.13-5](https://github.com/eea/fise-backend/releases/tag/6.0.13-5) - 2024-10-18T23:50:58Z
 
 ### Plone
