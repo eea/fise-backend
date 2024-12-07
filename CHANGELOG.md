@@ -1,6 +1,16 @@
 # Changelog
 
 
+## [6.0.13-13](https://github.com/eea/fise-backend/releases/tag/6.0.13-13) - 2024-12-07T00:18:18Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 11.0 ~ 11.1
+
+* Change: Add serializer/deserializer for JSONField, ref #281589
+  [razvanMiu]
+
+
 ## [6.0.13-12](https://github.com/eea/fise-backend/releases/tag/6.0.13-12) - 2024-12-05T20:42:51Z
 
 ### Plone
