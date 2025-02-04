@@ -1,6 +1,16 @@
 # Changelog
 
 
+## [6.0.13-16](https://github.com/eea/fise-backend/releases/tag/6.0.13-16) - 2025-02-04T00:15:46Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 11.2 ~ 11.3
+
+* Change: Disable transforms when serving html for flourish
+  [tiberiuichim]
+
+
 ## [6.0.13-15](https://github.com/eea/fise-backend/releases/tag/6.0.13-15) - 2025-01-30T19:24:40Z
 
 ### Plone
