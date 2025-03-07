@@ -1,6 +1,16 @@
 # Changelog
 
 
+## [6.0.13-20](https://github.com/eea/fise-backend/releases/tag/6.0.13-20) - 2025-03-07T00:19:20Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 11.4 ~ 11.5
+
+* Change: Don't remove embed_content block data
+  [razvanMiu]
+
+
 ## [6.0.13-19](https://github.com/eea/fise-backend/releases/tag/6.0.13-19) - 2025-02-28T16:26:23Z
 
 ### Plone
