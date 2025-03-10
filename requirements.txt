@@ -1,3 +1,4 @@
 eea.api.dataconnector
 eea.coremetadata
+eea.restapi
 eea.fise.policy
