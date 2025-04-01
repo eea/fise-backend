@@ -1,6 +1,21 @@
 # Changelog
 
 
+## [6.0.13-23](https://github.com/eea/fise-backend/releases/tag/6.0.13-23) - 2025-04-01T23:48:51Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.13-19 ~ 6.0.13-20 
+
+##### eeacms/plone-backend:[6.0.13-20](https://github.com/eea/plone-backend/releases/tag/6.0.13-20)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 7.0 ~ 7.1
+
+* Change: Make upgrade step for svg update more efficent - refs #276995
+ [avoinea]
+
+
 ## [6.0.13-22](https://github.com/eea/fise-backend/releases/tag/6.0.13-22) - 2025-03-13T00:58:55Z
 
 ### Plone
