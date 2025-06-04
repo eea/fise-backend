@@ -8,6 +8,7 @@
 -e ./sources/eea.zotero --pre
 -e ./sources/eea.api.layout --pre
 -e ./sources/eea.api.dataconnector --pre
+-e ./sources/eea.api.glossary --pre
 -e ./sources/eea.schema.slate --pre
 -e ./sources/eea.geolocation --pre
 -e ./sources/eea.sentry --pre
