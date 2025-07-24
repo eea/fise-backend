@@ -1,7 +1,7 @@
 eea.api.dataconnector
+eea.plotly
 eea.coremetadata
 eea.restapi
 eea.fise.policy
-eea.api.glossary==1.4
-eea.api.dataconnector==11.5
+eea.api.glossary
 
