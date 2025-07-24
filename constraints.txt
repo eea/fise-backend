@@ -1,5 +1,6 @@
 -f https://eggrepo.eea.europa.eu/simple/
 eea.api.glossary==1.4
-eea.api.dataconnector==11.5
+eea.api.dataconnector==12.0
+eea.plotly==1.7
 eea.coremetadata==5.3
 eea.fise.policy==1.0

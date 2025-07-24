@@ -14,6 +14,7 @@
 -e ./sources/eea.volto.policy --pre
 -e ./sources/eea.banner --pre
 -e ./sources/eea.website.policy --pre
+-e ./sources/eea.plotly --pre
 -e ./sources/pas.plugins.oidc --pre
 
 
