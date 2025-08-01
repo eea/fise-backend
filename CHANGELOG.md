@@ -1,6 +1,24 @@
 # Changelog
 
 
+## [6.0.15-15](https://github.com/eea/fise-backend/releases/tag/6.0.15-15) - 2025-08-01T23:51:46Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.15-12 ~ 6.0.15-13 
+
+##### eeacms/plone-backend:[6.0.15-13](https://github.com/eea/plone-backend/releases/tag/6.0.15-13)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 7.2 ~ 8.0
+
+* Create method to update all backend:8080 to resolveuid
+ [dobri1408 - refs #290024]
+* Feature: added migration script for `item`, `teaser` and `hero`
+ to new attachedimage array of object like object_browser widget
+ [ichim-david refs #254622]
+
+
 ## [6.0.15-13](https://github.com/eea/fise-backend/releases/tag/6.0.15-13) - 2025-07-23T23:41:16Z
 
 ### Plone
