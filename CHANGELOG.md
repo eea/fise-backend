@@ -1,6 +1,16 @@
 # Changelog
 
 
+## [6.0.15-20](https://github.com/eea/fise-backend/releases/tag/6.0.15-20) - 2025-08-20T16:56:05Z
+
+### Dependency updates
+
+##### [eea.plotly](https://github.com/eea/eea.plotly/releases): 1.8 ~ 1.9
+
+* Change: Limit delimiters to specific characters
+  [razvanMiu]
+
+
 ## [6.0.15-19](https://github.com/eea/fise-backend/releases/tag/6.0.15-19) - 2025-08-20T16:15:35Z
 
 ### Plone
