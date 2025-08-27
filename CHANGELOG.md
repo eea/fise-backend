@@ -1,6 +1,21 @@
 # Changelog
 
 
+## [6.0.15-22](https://github.com/eea/fise-backend/releases/tag/6.0.15-22) - 2025-08-27T14:29:10Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 12.0 ~ 12.1
+
+* Change: Add upgrade steps for version 12.x
+  [razvanMiu]
+
+##### [eea.plotly](https://github.com/eea/eea.plotly/releases): 1.9 ~ 2.0
+
+* Change: fix csv file data decoding
+  [razvanMiu]
+
+
 ## [6.0.15-21](https://github.com/eea/fise-backend/releases/tag/6.0.15-21) - 2025-08-20T23:47:38Z
 
 ### Plone
