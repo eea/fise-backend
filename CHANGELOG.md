@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [6.0.15-24](https://github.com/eea/fise-backend/releases/tag/6.0.15-24) - 2025-08-28T09:45:40Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 12.2 ~ 12.3
+
+* Fix: Broken release
+
+
 ## [6.0.15-23](https://github.com/eea/fise-backend/releases/tag/6.0.15-23) - 2025-08-27T23:14:58Z
 
 ### Dependency updates
