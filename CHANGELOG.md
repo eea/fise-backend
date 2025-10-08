@@ -1,6 +1,24 @@
 # Changelog
 
 
+## [6.0.15-25](https://github.com/eea/fise-backend/releases/tag/6.0.15-25) - 2025-10-08T17:10:48Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.15-18 ~ 6.0.15-19 
+
+##### eeacms/plone-backend:[6.0.15-19](https://github.com/eea/plone-backend/releases/tag/6.0.15-19)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 8.4 ~ 9.0
+
+* Fix: teaser block serializer to not clear href for non-http urls
+ [ichim-david - refs #292589]
+* Breaking: drop testing for Plone 5 that used plone.restapi 8.x
+ Version 8 was deprecated in 2023
+ [ichim-david - refs #292589]
+
+
 ## [6.0.15-24](https://github.com/eea/fise-backend/releases/tag/6.0.15-24) - 2025-08-28T09:45:40Z
 
 ### Dependency updates
