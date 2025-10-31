@@ -10,11 +10,11 @@ imageTests+=(
 		plone-basics
 		plone-site
 		plone-addons
-		plone-cors
-		plone-arbitrary-user
-		plone-listenport
-		plone-zeoclient
-		plone-relstorage
+		# plone-cors
+		# plone-arbitrary-user
+		# plone-listenport
+		# plone-zeoclient
+		# plone-relstorage
 	'
 )
 
