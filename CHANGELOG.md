@@ -1,6 +1,27 @@
 # Changelog
 
 
+## [6.1.3-2](https://github.com/eea/fise-backend/releases/tag/6.1.3-2) - 2025-11-19T16:15:26Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.1.3-5 ~ 6.1.3-6 
+
+##### eeacms/plone-backend:[6.1.3-6](https://github.com/eea/plone-backend/releases/tag/6.1.3-6)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 9.2 ~ 9.3
+
+* Fix: migration script to handle missing catalog entries for images
+ [ichim-david refs #254622]
+
+###### [pas.plugins.eea](https://pypi.org/project/pas.plugins.eea/#changelog): 1.5 ~ 1.6
+
+###### Internal
+
+- test: updated tests for 6.1.3 - refs #288125 - [Calin Vlad - [`e9884de`](https://github.com/eea/plone-backend/commit/e9884dec97f6ec1175052ca460927b0d01bff824)]
+
+
 ## [6.0.15-27](https://github.com/eea/fise-backend/releases/tag/6.0.15-27) - 2025-10-25T00:10:25Z
 
 ### Plone
