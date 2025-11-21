@@ -1,6 +1,242 @@
 # Changelog
 
 
+## [6.1.3-2](https://github.com/eea/fise-backend/releases/tag/6.1.3-2) - 2025-11-19T16:15:26Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.1.3-5 ~ 6.1.3-6 
+
+##### eeacms/plone-backend:[6.1.3-6](https://github.com/eea/plone-backend/releases/tag/6.1.3-6)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 9.2 ~ 9.3
+
+* Fix: migration script to handle missing catalog entries for images
+ [ichim-david refs #254622]
+
+###### [pas.plugins.eea](https://pypi.org/project/pas.plugins.eea/#changelog): 1.5 ~ 1.6
+
+###### Internal
+
+- test: updated tests for 6.1.3 - refs #288125 - [Calin Vlad - [`e9884de`](https://github.com/eea/plone-backend/commit/e9884dec97f6ec1175052ca460927b0d01bff824)]
+
+
+## [6.0.15-27](https://github.com/eea/fise-backend/releases/tag/6.0.15-27) - 2025-10-25T00:10:25Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.15-20 ~ 6.0.15-21 
+
+##### eeacms/plone-backend:[6.0.15-21](https://github.com/eea/plone-backend/releases/tag/6.0.15-21)
+###### Dependency updates
+
+###### [eea.kitkat](https://github.com/eea/eea.kitkat/releases): 8.1 ~ 8.2
+
+* Change: Fix: use plone.volto:default profile instead of default-homepage
+ [nileshgulia1]
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 9.0 ~ 9.1
+
+* Fix: tests for Plone 5
+ [ichim-david - refs #292589]
+
+
+## [6.0.15-26](https://github.com/eea/fise-backend/releases/tag/6.0.15-26) - 2025-10-23T23:59:42Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.15-19 ~ 6.0.15-20 
+
+##### eeacms/plone-backend:[6.0.15-20](https://github.com/eea/plone-backend/releases/tag/6.0.15-20)
+###### Internal
+
+- fix: security CVE vulnerability on lib2xml - [nileshgulia1 - [`f7b734c`](https://github.com/eea/plone-backend/commit/f7b734c11b574ee0018c26864e4ce5e44001eb89)]
+
+
+## [6.0.15-25](https://github.com/eea/fise-backend/releases/tag/6.0.15-25) - 2025-10-08T17:10:48Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.15-18 ~ 6.0.15-19 
+
+##### eeacms/plone-backend:[6.0.15-19](https://github.com/eea/plone-backend/releases/tag/6.0.15-19)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 8.4 ~ 9.0
+
+* Fix: teaser block serializer to not clear href for non-http urls
+ [ichim-david - refs #292589]
+* Breaking: drop testing for Plone 5 that used plone.restapi 8.x
+ Version 8 was deprecated in 2023
+ [ichim-david - refs #292589]
+
+
+## [6.0.15-24](https://github.com/eea/fise-backend/releases/tag/6.0.15-24) - 2025-08-28T09:45:40Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 12.2 ~ 12.3
+
+* Fix: Broken release
+
+
+## [6.0.15-23](https://github.com/eea/fise-backend/releases/tag/6.0.15-23) - 2025-08-27T23:14:58Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 12.1 ~ 12.2
+
+* Change: fix csv file data decoding
+  [razvanMiu]
+
+
+## [6.0.15-22](https://github.com/eea/fise-backend/releases/tag/6.0.15-22) - 2025-08-27T14:29:10Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 12.0 ~ 12.1
+
+* Change: Add upgrade steps for version 12.x
+  [razvanMiu]
+
+##### [eea.plotly](https://github.com/eea/eea.plotly/releases): 1.9 ~ 2.0
+
+* Change: fix csv file data decoding
+  [razvanMiu]
+
+
+## [6.0.15-21](https://github.com/eea/fise-backend/releases/tag/6.0.15-21) - 2025-08-20T23:47:38Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.15-17 ~ 6.0.15-18 
+
+##### eeacms/plone-backend:[6.0.15-18](https://github.com/eea/plone-backend/releases/tag/6.0.15-18)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 8.3 ~ 8.4
+
+* Change: feat: Control Navigation Settings TTW - refs #288509
+ [avoinea]
+
+
+## [6.0.15-20](https://github.com/eea/fise-backend/releases/tag/6.0.15-20) - 2025-08-20T16:56:05Z
+
+### Dependency updates
+
+##### [eea.plotly](https://github.com/eea/eea.plotly/releases): 1.8 ~ 1.9
+
+* Change: Limit delimiters to specific characters
+  [razvanMiu]
+
+
+## [6.0.15-19](https://github.com/eea/fise-backend/releases/tag/6.0.15-19) - 2025-08-20T16:15:35Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.15-16 ~ 6.0.15-17 
+
+##### eeacms/plone-backend:[6.0.15-17](https://github.com/eea/plone-backend/releases/tag/6.0.15-17)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 8.2 ~ 8.3
+
+* Change: Release
+ [dobri1408]
+
+### Dependency updates
+
+##### [eea.plotly](https://github.com/eea/eea.plotly/releases): 1.7 ~ 1.8
+
+* Change: fix 'no data provided' soer indicator
+  [razvanMiu]
+
+
+## [6.0.15-18](https://github.com/eea/fise-backend/releases/tag/6.0.15-18) - 2025-08-11T23:44:57Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.15-15 ~ 6.0.15-16 
+
+##### eeacms/plone-backend:[6.0.15-16](https://github.com/eea/plone-backend/releases/tag/6.0.15-16)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 8.1 ~ 8.2
+
+* Change: Release with an older python 3 version
+ [valentinab25]
+
+
+## [6.0.15-17](https://github.com/eea/fise-backend/releases/tag/6.0.15-17) - 2025-08-05T23:46:24Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.15-14 ~ 6.0.15-15 
+
+##### eeacms/plone-backend:[6.0.15-15](https://github.com/eea/plone-backend/releases/tag/6.0.15-15)
+###### Internal
+
+- the username is not eeacms - [valentinab25 - [`38093a9`](https://github.com/eea/plone-backend/commit/38093a9f5222ec3642c79fb65ebf12e836da7009)]
+
+
+## [6.0.15-16](https://github.com/eea/fise-backend/releases/tag/6.0.15-16) - 2025-08-05T08:49:36Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.15-13 ~ 6.0.15-14 
+
+##### eeacms/plone-backend:[6.0.15-14](https://github.com/eea/plone-backend/releases/tag/6.0.15-14)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 8.0 ~ 8.1
+
+* Change: fix(upgrade): for images, allowing also to run @@image-migrate script
+ [ichim-david]
+
+
+## [6.0.15-15](https://github.com/eea/fise-backend/releases/tag/6.0.15-15) - 2025-08-01T23:51:46Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.15-12 ~ 6.0.15-13 
+
+##### eeacms/plone-backend:[6.0.15-13](https://github.com/eea/plone-backend/releases/tag/6.0.15-13)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 7.2 ~ 8.0
+
+* Create method to update all backend:8080 to resolveuid
+ [dobri1408 - refs #290024]
+* Feature: added migration script for `item`, `teaser` and `hero`
+ to new attachedimage array of object like object_browser widget
+ [ichim-david refs #254622]
+
+
+## [6.0.15-13](https://github.com/eea/fise-backend/releases/tag/6.0.15-13) - 2025-07-23T23:41:16Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.15-11 ~ 6.0.15-12 
+
+##### eeacms/plone-backend:[6.0.15-12](https://github.com/eea/plone-backend/releases/tag/6.0.15-12)
+###### Dependency updates
+
+###### [pas.plugins.eea](https://pypi.org/project/pas.plugins.eea/#changelog): 1.4 ~ 1.5
+
+
+## [6.0.15-11](https://github.com/eea/fise-backend/releases/tag/6.0.15-11) - 2025-06-11T18:31:27Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.0.15-10 ~ 6.0.15-11 
+
+##### eeacms/plone-backend:[6.0.15-11](https://github.com/eea/plone-backend/releases/tag/6.0.15-11)
+###### Dependency updates
+
+###### [eea.api.glossary](https://pypi.org/project/eea.api.glossary/#changelog): 1.2 ~ 1.5
+
+
 ## [6.0.15-10](https://github.com/eea/fise-backend/releases/tag/6.0.15-10) - 2025-06-03T14:26:57Z
 
 ### Plone
