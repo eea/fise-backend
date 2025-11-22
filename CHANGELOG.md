@@ -1,6 +1,16 @@
 # Changelog
 
 
+## [6.1.3-3](https://github.com/eea/fise-backend/releases/tag/6.1.3-3) - 2025-11-22T00:18:47Z
+
+### Dependency updates
+
+##### [eea.plotly](https://github.com/eea/eea.plotly/releases): 2.1 ~ 2.2
+
+* Change: better handle of backward compatibility, ref #293767
+  [razvanMiu]
+
+
 ## [6.1.3-2](https://github.com/eea/fise-backend/releases/tag/6.1.3-2) - 2025-11-19T16:15:26Z
 
 ### Plone
