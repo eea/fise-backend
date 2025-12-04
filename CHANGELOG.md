@@ -1,6 +1,29 @@
 # Changelog
 
 
+## [6.1.3-4](https://github.com/eea/fise-backend/releases/tag/6.1.3-4) - 2025-12-04T18:50:05Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.1.3-6 ~ 6.1.3-7 
+
+##### eeacms/plone-backend:[6.1.3-7](https://github.com/eea/plone-backend/releases/tag/6.1.3-7)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 9.3 ~ 10.0
+
+###### What's Changed
+* Advanced restricted block by @tedw87 in https://github.com/eea/eea.volto.policy/pull/88
+* Release 10.0 by @avoinea in https://github.com/eea/eea.volto.policy/pull/89
+
+
+**Full Changelog**: https://github.com/eea/eea.volto.policy/compare/9.3...10.0
+
+###### Internal
+
+- Release eea.volto.policy 10.0 - [Alin Voinea - [`505df34`](https://github.com/eea/plone-backend/commit/505df34459a3c50cf98ad63cdc4a6abe6f6c9c70)]
+
+
 ## [6.1.3-3](https://github.com/eea/fise-backend/releases/tag/6.1.3-3) - 2025-11-22T00:18:47Z
 
 ### Dependency updates
