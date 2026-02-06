@@ -1,6 +1,18 @@
 # Changelog
 
 
+## [6.1.3-12](https://github.com/eea/fise-backend/releases/tag/6.1.3-12) - 2026-02-06T01:01:44Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.1.3-11 ~ 6.1.3-12 
+
+##### eeacms/plone-backend:[6.1.3-12](https://github.com/eea/plone-backend/releases/tag/6.1.3-12)
+###### Dependency updates
+
+###### [pas.plugins.eea](https://pypi.org/project/pas.plugins.eea/#changelog): 1.5 ~ 1.7
+
+
 ## [6.1.3-11](https://github.com/eea/fise-backend/releases/tag/6.1.3-11) - 2026-01-28T14:20:27Z
 
 ### Plone
