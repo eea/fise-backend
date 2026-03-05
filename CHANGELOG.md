@@ -1,6 +1,21 @@
 # Changelog
 
 
+## [6.1.3-14](https://github.com/eea/fise-backend/releases/tag/6.1.3-14) - 2026-03-05T01:20:10Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.1.3-13 ~ 6.1.3-14 
+
+##### eeacms/plone-backend:[6.1.3-14](https://github.com/eea/plone-backend/releases/tag/6.1.3-14)
+###### Dependency updates
+
+###### [eea.volto.policy](https://github.com/eea/eea.volto.policy/releases): 11.2 ~ 11.3
+
+* Fix: Override titles on cards when target is selected
+ [tedw87 - refs #298262]
+
+
 ## [6.1.3-13](https://github.com/eea/fise-backend/releases/tag/6.1.3-13) - 2026-02-25T01:04:47Z
 
 ### Plone
