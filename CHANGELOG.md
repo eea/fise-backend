@@ -1,6 +1,19 @@
 # Changelog
 
 
+## [6.1.3-16](https://github.com/eea/fise-backend/releases/tag/6.1.3-16) - 2026-03-12T00:18:27Z
+
+### Dependency updates
+
+#### New packages
+
+##### [eea.api.visualizationutils](https://pypi.org/project/eea.api.visualizationutils/#changelog): 1.4
+
+### Internal
+
+- add eea.api.visualizationutils - [Claudia Ifrim -  [`8f1e1a2`](https://github.com/eea/fise-backend/commit/8f1e1a256afbb46c3837a07d3bf43a7239b600fc)]
+- Add visualizationutils to requirements - [Claudia Ifrim -  [`ce68a8e`](https://github.com/eea/fise-backend/commit/ce68a8e8ef39189e6a42ac411a3c5eb54d1a6dea)]
+
 ## [6.1.3-15](https://github.com/eea/fise-backend/releases/tag/6.1.3-15) - 2026-03-07T01:09:34Z
 
 ### Plone
