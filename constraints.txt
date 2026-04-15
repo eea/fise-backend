@@ -2,6 +2,6 @@
 eea.api.glossary==1.6
 eea.api.dataconnector==12.6
 eea.plotly==2.3
-eea.coremetadata==5.4
+eea.coremetadata==5.5
 eea.fise.policy==1.1
 eea.api.visualizationutils==1.4
