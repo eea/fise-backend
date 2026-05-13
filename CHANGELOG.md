@@ -1,6 +1,12 @@
 # Changelog
 
 
+## [6.1.4-4](https://github.com/eea/fise-backend/releases/tag/6.1.4-4) - 2026-05-13T23:18:01Z
+
+### Internal
+
+- put back eea.restapi in order for @silblings to work refs#303618 - [Nilesh -  [`a8cb80c`](https://github.com/eea/fise-backend/commit/a8cb80c534a4f4ef96db248ec98f16387d236ba5)]
+
 ## [6.1.4-3](https://github.com/eea/fise-backend/releases/tag/6.1.4-3) - 2026-05-08T23:18:06Z
 
 ### Dependency updates
