@@ -1,6 +1,17 @@
 # Changelog
 
 
+## [6.1.4-8](https://github.com/eea/fise-backend/releases/tag/6.1.4-8) - 2026-06-09T23:41:57Z
+
+### Dependency updates
+
+##### [eea.api.dataconnector](https://github.com/eea/eea.api.dataconnector/releases): 12.7 ~ 12.8
+
+* Fix: return 404 from ``@connector-data`` for content without a connector
+  data provider instead of raising ``ValueError``
+  [dobri1408]
+
+
 ## [6.1.4-7](https://github.com/eea/fise-backend/releases/tag/6.1.4-7) - 2026-06-04T09:23:39Z
 
 ### Plone
