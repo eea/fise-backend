@@ -1,6 +1,12 @@
 # Changelog
 
 
+## [6.1.4-10](https://github.com/eea/fise-backend/releases/tag/6.1.4-10) - 2026-06-18T20:25:44Z
+
+### Internal
+
+- test: increase retrys on tests - [valentinab25 -  [`ffdb1a7`](https://github.com/eea/fise-backend/commit/ffdb1a73957dec7f0b47e223326a92ec531a2111)]
+
 ## [6.1.4-9](https://github.com/eea/fise-backend/releases/tag/6.1.4-9) - 2026-06-18T17:25:18Z
 
 ### Plone
