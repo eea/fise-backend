@@ -1,6 +1,35 @@
 # Changelog
 
 
+## [6.1.4-16](https://github.com/eea/fise-backend/releases/tag/6.1.4-16) - 2026-07-14T23:57:15Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.1.4-11 ~ 6.1.4-12 
+
+##### eeacms/plone-backend:[6.1.4-12](https://github.com/eea/plone-backend/releases/tag/6.1.4-12)
+###### Dependency updates
+
+###### [eea.coremetadata](https://github.com/eea/eea.coremetadata/releases): 6.1 ~ 6.2
+
+* Change: Replace the generated Publication type taxonomy field with the
+ dedicated ``publication_type`` behavior and migrate its catalog and
+ search configuration.
+ [dobri1408]
+
+### Dependency updates
+
+##### [eea.coremetadata](https://github.com/eea/eea.coremetadata/releases): 6.1 ~ 6.2
+
+* Change: Replace the generated Publication type taxonomy field with the
+  dedicated ``publication_type`` behavior and migrate its catalog and
+  search configuration.
+  [dobri1408]
+
+### Internal
+
+- fix: Add betterleaks github action - refs #304517 - [dobri1408 -  [`60dc495`](https://github.com/eea/fise-backend/commit/60dc4959b205f9403e2413e898bbf6b29603c7b2)]
+
 ## [6.1.4-15](https://github.com/eea/fise-backend/releases/tag/6.1.4-15) - 2026-07-14T00:35:49Z
 
 ### Plone
