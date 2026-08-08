@@ -1,6 +1,18 @@
 # Changelog
 
 
+## [6.1.4-20](https://github.com/eea/fise-backend/releases/tag/6.1.4-20) - 2026-08-08T00:57:20Z
+
+### Plone
+
+#### Upgrade [eeacms/plone-backend](https://github.com/eea/plone-backend): 6.1.4-15 ~ 6.1.4-16 
+
+##### eeacms/plone-backend:[6.1.4-16](https://github.com/eea/plone-backend/releases/tag/6.1.4-16)
+###### Internal
+
+- fix: arm64 image builds on github actions - [Alin Voinea - [`35cd2ff`](https://github.com/eea/plone-backend/commit/35cd2ff11bafcc6b19b5fb2425903f94acbee89b)]
+
+
 ## [6.1.4-19](https://github.com/eea/fise-backend/releases/tag/6.1.4-19) - 2026-08-07T10:48:54Z
 
 ### Plone
