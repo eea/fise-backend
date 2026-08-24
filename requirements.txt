@@ -4,4 +4,3 @@ eea.coremetadata
 eea.fise.policy
 eea.api.glossary
 eea.api.visualizationutils
-eea.restapi
