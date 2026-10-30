@@ -1,4 +1,4 @@
-FROM eeacms/plone-backend:6.1.4-24
+FROM eeacms/plone-backend:6.1.5-1
 
 COPY requirements.txt constraints.txt /app/
 COPY ./etc/zodbpack.conf /app/etc/zodbpack.conf
